@@ -1,4 +1,4 @@
-# Stack Job Finder Application
+# Job Finder Application
 
 ## Get Started
 
